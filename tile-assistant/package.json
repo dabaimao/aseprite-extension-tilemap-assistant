@@ -1,0 +1,24 @@
+{
+    "name": "tilemap-assistant",
+    "displayName": "Tilemap Assistant",
+    "description": "用于Aseprite 替代官方Tilemap 功能的插件",
+    "version": "0.1",
+    "author": {
+        "name": "shawnping",
+        "email": "shawnping@outlook.com",
+        "url": "https://mywebsite.com/"
+    },
+    "contributors": [],
+    "publisher": "shawnping",
+    "license": "CC-BY-4.0",
+    "categories": [
+        "Scripts"
+    ],
+    "contributes": {
+        "scripts": [
+            {
+                "path": "./Main.lua"
+            }
+        ]
+    }
+}

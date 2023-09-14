@@ -1,0 +1,23 @@
+{
+    "Lua.diagnostics.globals": [
+        "init",
+        "exit",
+        "Dialog",
+        "ev",
+        "Color",
+        "Rectangle",
+        "Brush",
+        "Image",
+        "TileData",
+        "MouseButton",
+        "ColorMode",
+        "ImageSpec",
+        "app",
+        "Point",
+        "MouseCursor",
+        "BrushType",
+        "BrushPattern",
+        "Sprite",
+        "KeyEvent"
+    ],
+}
